@@ -90,7 +90,7 @@ DATABASES = {
     #     'ENGINE': 'django.db.backends.postgresql',
     #     'NAME': 'marketurself',
     # }
-    This is to deploy with bit.io and Heroku
+    # This is to deploy with bit.io and Heroku
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
         # bit.io Database name
